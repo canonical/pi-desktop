@@ -1,9 +1,8 @@
 name: pi-desktop
 version: 22-0
-summary: Raspberry Pi gadget
+summary: Raspberry Pi gadget for Desktop
 description: |
-  Support files for booting Raspberry Pi.
-  This gadget snap supports the Raspberry Pi 4
+  This gadget enables Raspberry Pi devices to work with Ubuntu Core Desktop
 type: gadget
 build-base: core22
 base: core22-desktop
